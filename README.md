@@ -21,7 +21,7 @@ Software Engineer con más de **5 años de experiencia** diseñando y escalando 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=overdev-code&layout=compact&theme=vision-friendly-dark)
 
 ### 📫 Conecta conmigo
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+- **LinkedIn:** [linkedin.com/in/over-rimachi](https://linkedin.com/in/over-rimachi)
 - **Web:** [overdev-code.github.io](https://overdev-code.github.io/)
 
 ---
