@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Over Rimachi 👋
+### Senior Software Engineer | Full Stack Specialist
 
-<!--
-**overdev-code/overdev-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer con más de **5 años de experiencia** diseñando y escalando ecosistemas digitales de alto impacto. Especialista en arquitecturas backend robustas y experiencias de usuario modernas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Expertise
+
+- **Backend:** Python (FastAPI, Flask) | PHP (CodeIgniter 4)
+- **Frontend:** React | JavaScript (ES6+) | HTML5 | CSS3
+- **Databases:** PostgreSQL | MySQL | SQLite
+- **Architecture:** API Design, System Optimization, and Scalable Infrastructure.
+
+### 🚀 Proyectos Destacados
+- **FoodieAdmin:** Sistema POS de alto rendimiento para la industria gastronómica.
+- **Facturación Electrónica:** Integración de sistemas de facturación bajo estándares SUNAT.
+- **Yop Call:** Aplicación de notificaciones en tiempo real con React Native.
+
+### 📈 Estadísticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=overdev-code&layout=compact&theme=vision-friendly-dark)
+
+### 📫 Conecta conmigo
+- **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+- **Web:** [overdev-code.github.io](https://overdev-code.github.io/)
+
+---
+*"Diseñando soluciones que escalan más allá del código."*
